@@ -53,6 +53,33 @@
         "New players only",
         "1x per player"
       ]
+    },
+    {
+      "status": "published",
+      "id": "5",
+      "priority": "4",
+      "description": "out",
+      "short_description": "out",
+      "styled_description": "<b>🔥  125 Free Spins at Aladdin’s Gold – No Deposit! 🔥</b><br><br>We’ve rubbed the lamp and made a wish for free spins – and Aladdin’s Gold surely delivered! You get a mesmerizing 125 free spins for simply signing up. Make sure to enter the promo code “ICY125AG”. The free spins are available for you to use on Icy Hot MultiSlot.",
+      "offer_link": "https://affiliates.routy.app/route/114040?affId=10259&ts=5006508",
+      "partner_brand_image": "https://xtremepush-beefree.s3.amazonaws.com/xp/images/e72e313706cecc93d570b217d71a2aa9407c91b3/playamo.jpeg",
+      "partner_brand_name": "Play Amo",
+      "bonus_details": "Bonus details:<br>\n🌎 Coupon Code: ICY125AG <br>\n🎲 Min. Deposit: N/A <br>\n💵 Max Cash Out: C$50 <br>\n🎰 Spins Value: C$12.50 <br>\n🔄 Wagering: 50x  <br>\n⚡ Available: New players only - 1x per player ",
+      "geo": "CA",
+      "currency": "CAD",
+      "starts_at": "2025-12-31T23:00:00.000Z",
+      "ends_at": "2026-06-29T22:00:00.000Z",
+      "segment_code": "NRC",
+      "brand": "CBCA",
+      "vertical": "casino",
+      "offer_tc_params_list": [
+        "No Min. Deposit",
+        "Max Cash Out: C$50",
+        "Spins Value: C$12.50",
+        "Wagering: 50x",
+        "New players only",
+        "1x per player"
+      ]
     }
   ]
 }
